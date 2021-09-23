@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FormularioMiguel</string>
+    <string name="Nombre">Nombre completo</string>
+    <string name="Telefono">Telefono</string>
+    <string name="Email">Email</string>
+    <string name="DescripcionContacto">Descripción Contacto</string>
+    <string name="BotonSiguiente">Siguiente</string>
+    <string name="BotonEditar">Editar datos</string>
+
+    <string name="ConfirmarDatos">Confirmar Datos</string>
+
+</resources>
